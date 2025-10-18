@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_BRAM_f_f_b*SQNiU3RJy7-x9ix6sing
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZnz_4qjAAEAizw3SJJQ2Rox3X_icB6vXQJH6gB7r2Esc8Z4AUF8aUgiUOwXzcmZsiFzTD1ts46BEFpBsiuDHPSEHSlClZyILL7kInjrwnv_VYfpcElfx_xPFUIrijr_bdHV5JPYFwFZNq0bi3m4kM9BfJDly0yaSPrWOwh5ffR6cN2S7iQPbMxqmcCNaoNbt61AF-tDm2qujORCOuuaviIfFK0zP2kbLYEDwGWbJUuQOtNl1EQVKVDlnxKZa6LyN87BjLfwOrXwL0N9Hw8uIk_ILFjhsaGShj44BAehr1AYqoRpmgPLLOQnnA:
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZnz_4rDAAEAivUGgvrBdW-h-oZ1-aoNTwk6NTLRc6yVUlQGdTt-SMAoRSVAMDUGPa_4JQY1dGL7i50sW6QC7fiSQTKyEYQJQyHR-NXcBfJhz6UiA8pNyXdPtbyEWG-NqxPE2TlW_AyKA7Vtcq5lHV5VBaAK9stdUu2DLP45:
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	Priority	High
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	localization	BR
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	885571c6-aa95-4614-b0cd-79f1444e05be-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	9cc44f79-7a65-4191-87a5-ea44602f3576
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	57dbc718-8362-4a04-aea4-f053f60e2949
+wydb02-51.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
